@@ -14,5 +14,6 @@ public class ShoppingList {
         System.out.println("Soap");
         System.out.println("Batteries");
         System.out.println("ToothPaste");
+        System.out.println("MIlk2.0");
     }
 }
